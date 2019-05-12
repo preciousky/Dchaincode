@@ -1,0 +1,33 @@
+StateTime,PaperId,PaperName,Value,DDate,MDate,AcceptDate,DrawerId,DrawerName,PayerId,PayerName,PayeeId,PayeeName,HolderId,HolderName,Rule,RuleData,RankInfo,RankerId,RankerName,RankDate,State,StateRoleId,StateRoleName,CashData,NewInfo
+0,JuhGOzz1,GOAness.Par453-1,1000,2018-9-1,2021-9-1,,ZA_user1,XiXiA_O Co. onene,ZB_user5,Jaga_T fiv,ZA_user2,YOUR_O Co. two,ZA_user2,YOUR_O Co. two,1,,,,,,0,,,,1
+0,JuhGOzz2,GOAness.Par453-2,1000,2018-9-2,2021-9-2,,ZA_user1,XiXiA_O Co. onene,ZB_user6,SISA_T six,ZA_user2,YOUR_O Co. two,ZA_user2,YOUR_O Co. two,1,,,,,,0,,,,1
+0,JuhGOzz3,GOAness.Par453-3,1000,2018-9-3,2021-9-3,,ZA_user1,XiXiA_O Co. onene,ZB_user7,COR_T Co. sev,ZA_user3,PIZZA_O LT thr,ZA_user3,PIZZA_O LT thr,1,,,,,,0,,,,1
+0,JuhGOzz4,GOAness.Par453-4,1000,2018-9-4,2021-9-4,,ZA_user1,XiXiA_O Co. onene,ZB_user8,PASS_T Co. eig,ZA_user3,PIZZA_O LT thr,ZA_user3,PIZZA_O LT thr,1,,,,,,0,,,,1
+0,JuhGOzz5,GOAness.Par453-5,1000,2018-9-5,2021-9-5,,ZA_user2,YOUR_O Co. twowo,ZB_user5,Jaga_T fiv,ZA_user3,PIZZA_O LT thr,ZA_user3,PIZZA_O LT thr,1,,,,,,0,,,,1
+0,JuhGOzz6,GOAness.Par453-6,1000,2018-9-6,2021-9-6,,ZA_user2,YOUR_O Co. twowo,ZB_user6,SISA_T six,ZA_user3,PIZZA_O LT thr,ZA_user3,PIZZA_O LT thr,1,,,,,,0,,,,1
+0,JuhGOzz7,GOAness.Par453-7,1000,2018-9-7,2021-9-7,,ZA_user2,YOUR_O Co. twowo,ZB_user7,COR_T Co. sev,ZA_user4,PePa_O fou,ZA_user4,PePa_O fou,1,,,,,,0,,,,1
+0,JuhGOzz8,GOAness.Par453-8,1000,2018-9-8,2021-9-8,,ZA_user2,YOUR_O Co. twowo,ZB_user8,PASS_T Co. eig,ZA_user4,PePa_O fou,ZA_user4,PePa_O fou,1,,,,,,0,,,,1
+0,JuhGOzz9,GOAness.Par453-9,1000,2018-9-9,2021-9-9,,ZA_user3,PIZZA_O LT thr,ZB_user5,Jaga_T fiv,ZA_user4,PePa_O fou,ZA_user4,PePa_O fou,1,,,,,,0,,,,1
+0,JuhGOzz10,GOAness.Par453-10,1000,2018-9-10,2021-9-10,,ZA_user3,PIZZA_O LT thr,ZB_user6,SISA_T six,ZA_user4,PePa_O fou,ZA_user4,PePa_O fou,1,,,,,,0,,,,1
+0,JuhGOzz11,GOAness.Par453-11,1000,2018-9-11,2021-9-11,,ZA_user3,PIZZA_O LT thr,ZB_user7,COR_T Co. sev,ZA_user1,XiXiA_O Co. one,ZA_user1,XiXiA_O Co. one,1,,,,,,0,,,,1
+0,JuhGOzz12,GOAness.Par453-12,1000,2018-9-12,2021-9-12,,ZA_user3,PIZZA_O LT thr,ZB_user8,PASS_T Co. eig,ZA_user1,XiXiA_O Co. one,ZA_user1,XiXiA_O Co. one,1,,,,,,0,,,,1
+0,JuhGOzz13,GOAness.Par453-13,1000,2018-9-13,2021-9-13,,ZA_user4,PePa_O fou,ZB_user5,Jaga_T fiv,ZA_user1,XiXiA_O Co. one,ZA_user1,XiXiA_O Co. one,1,,, ,,,0,,,,1
+0,JuhGOzz14,GOAness.Par453-14,1000,2018-9-14,2021-9-14,,ZA_user4,PePa_O fou,ZB_user6,SISA_T six,ZA_user1,XiXiA_O Co. one,ZA_user1,XiXiA_O Co. one,1,,,,,,0,,,,1
+0,JuhGOzz15,GOAness.Par453-15,1000,2018-9-15,2021-9-15,,ZA_user4,PePa_O fou,ZB_user7,COR_T Co. sev,ZA_user2,YOUR_O Co. two,ZA_user2,YOUR_O Co. two,1,,,,,,0,,,,1
+0,JuhGOzz16,GOAness.Par453-16,1000,2018-9-16,2021-9-16,,ZA_user4,PePa_O fou,ZB_user8,PASS_T Co. eig,ZA_user2,YOUR_O Co. two,ZA_user2,YOUR_O Co. two,1,,,,,,0,,,,1
+0,JuhGOzz17,GOAness.Par453-17,1000,2018-9-17,2021-9-17,,ZB_user5,Jaga_T fiv,ZA_user1,XiXiA_O Co. one,ZB_user6,SISA_T six,ZB_user6,SISA_T six,2,30,,,,,0,,,,1
+0,JuhGOzz18,GOAness.Par453-18,1000,2018-9-18,2021-9-18,,ZB_user5,Jaga_T fiv,ZA_user2,YOUR_O Co. two,ZB_user6,SISA_T six,ZB_user6,SISA_T six,2,30,,,,,0,,,,1
+0,JuhGOzz19,GOAness.Par453-19,1000,2018-9-19,2021-9-19,,ZB_user5,Jaga_T fiv,ZA_user3,PIZZA_O LT thr,ZB_user7,COR_T Co. sev,ZB_user7,COR_T Co. sev,2,30,,,,,0,,,,1
+0,JuhGOzz20,GOAness.Par453-20,1000,2018-9-20,2021-9-20,,ZB_user5,Jaga_T fiv,ZA_user4,PePa_O fou,ZB_user7,COR_T Co. sev,ZB_user7,COR_T Co. sev,2,30,,,,,0,,,,1
+0,JuhGOzz21,GOAness.Par453-21,1000,2018-9-21,2021-9-21,,ZB_user6,SISA_T six,ZA_user1,XiXiA_O Co. one,ZB_user7,COR_T Co. sev,ZB_user7,COR_T Co. sev,2,30,,,,,0,,,,1
+0,JuhGOzz22,GOAness.Par453-22,1000,2018-9-22,2021-9-22,,ZB_user6,SISA_T six,ZA_user2,YOUR_O Co. two,ZB_user7,COR_T Co. sev,ZB_user7,COR_T Co. sev,2,30,,,,,0,,,,1
+0,JuhGOzz23,GOAness.Par453-23,1000,2018-9-23,2021-9-23,,ZB_user6,SISA_T six,ZA_user3,PIZZA_O LT thr,ZB_user8,PASS_T Co. eig,ZB_user8,PASS_T Co. eig,2,30,,,,,0,,,,1
+0,JuhGOzz24,GOAness.Par453-24,1000,2018-9-24,2021-9-24,,ZB_user6,SISA_T six,ZA_user4,PePa_O fou,ZB_user8,PASS_T Co. eig,ZB_user8,PASS_T Co. eig,2,30,,,,,0,,,,1
+0,JuhGOzz25,GOAness.Par453-25,1000,2018-9-25,2021-9-25,,ZB_user7,COR_T Co. sev,ZA_user1,XiXiA_O Co. one,ZB_user8,PASS_T Co. eig,ZB_user8,PASS_T Co. eig,2,30,,,,,0,,,,1
+0,JuhGOzz26,GOAness.Par453-26,1000,2018-9-26,2021-9-26,,ZB_user7,COR_T Co. sev,ZA_user2,YOUR_O Co. two,ZB_user8,PASS_T Co. eig,ZB_user8,PASS_T Co. eig,2,30,,,,,0,,,,1
+0,JuhGOzz27,GOAness.Par453-27,1000,2018-9-27,2021-9-27,,ZB_user7,COR_T Co. sev,ZA_user3,PIZZA_O LT thr,ZB_user5,Jaga_T fiv,ZB_user5,Jaga_T fiv,2,30,,,,,0,,,,1
+0,JuhGOzz28,GOAness.Par453-28,1000,2018-9-28,2021-9-28,,ZB_user7,COR_T Co. sev,ZA_user4,PePa_O fou,ZB_user5,Jaga_T fiv,ZB_user5,Jaga_T fiv,2,30,,,,,0,,,,1
+0,JuhGOzz29,GOAness.Par453-29,1000,2018-9-29,2021-9-29,,ZB_user8,PASS_T Co. eig,ZA_user1,XiXiA_O Co. one,ZB_user5,Jaga_T fiv,ZB_user5,Jaga_T fiv,2,30,,,,,0,,,,1
+0,JuhGOzz30,GOAness.Par453-30,1000,2018-9-30,2021-9-30,,ZB_user8,PASS_T Co. eig,ZA_user2,YOUR_O Co. two,ZB_user5,Jaga_T fiv,ZB_user5,Jaga_T fiv,2,30,,,,,0,,,,1
+0,JuhGOzz31,GOAness.Par453-31,1000,2018-10-1,2021-10-1,,ZB_user8,PASS_T Co. eig,ZA_user3,PIZZA_O LT thr,ZB_user6,SISA_T six,ZB_user6,SISA_T six,2,30,,,,,0,,,,1
+0,JuhGOzz32,GOAness.Par453-32,1000,2018-10-2,2021-10-2,,ZB_user8,PASS_T Co. eig,ZA_user4,PePa_O fou,ZB_user6,SISA_T six,ZB_user6,SISA_T six,2,30,,,,,0,,,,1
